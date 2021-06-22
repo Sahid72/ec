@@ -1,0 +1,176 @@
+ 
+
+body{
+    color: #6C6B6B;
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    margin-bottom: 100px;
+}
+
+.navbar-brand img{
+    width: 200px;
+}
+
+
+.nav-link{
+   
+    margin: 0px 15px;
+    font-weight: 600;
+    padding: 5px 20px !important;
+}
+.nav-link-green{
+    background-color: #21B573;
+    border-radius: 33px;
+
+}
+
+.button-green{
+    background-color: #21B573;
+    border-radius: 33px;
+    border: none;
+    color: white;
+    padding:7px 25px;
+}
+
+.navbar-toggler-icon{
+    position:absolute;
+    right: 0;
+}
+
+.text-red{
+    color: #FD511A;
+}
+.text-green{
+    color: #21B573;
+}
+.h1{
+    font-size: 48px;
+}
+.nav-image p{
+    margin:20px 0px
+}
+
+.margin-btn{
+    margin-top: 25px;    
+}
+
+.img-illustration{
+    width: 90%;
+}
+
+.light-green{
+    background-color: #F0FFF0;
+    padding:10px 0px;
+}
+
+
+
+
+.icon-container{
+    display:flex;
+    justify-content:space-between;
+    margin-top: 100px;
+
+}
+
+
+.icon-container img{
+    height:85px;
+    width: auto;
+    display: inline-block;
+    
+
+}
+.icon{
+    width: 270px;
+    height: 270px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   background-color: #F8FFFB;
+   border-radius: 10px;
+   margin-bottom: 25px;
+
+}
+
+
+.icon h3{
+    margin-top: 20px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    font-size: 24px;
+}
+
+.icon-bg-white-shadow{
+
+    background-color: white;
+    filter: drop-shadow(0px 0px 15px rgba(211, 211, 211, 0.746));
+}
+
+.card-col{
+    box-sizing: border-box;
+    filter: drop-shadow(0px 0px 20px rgba(211, 211, 211, 0.753));
+    margin-bottom: 20px;
+
+}
+.card{
+    border: none;
+    border-radius: 15px;
+}
+.card-col img{
+    padding: 15px;
+    
+}
+
+.card-title{
+    color: #413960;
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 3px;
+}
+
+.card-footer{
+    margin-top: 10px;
+    border: none;
+    background-color:#fff;
+    border-radius: 15px !important;
+}
+
+.card-footer img{
+
+    height: 24px;
+    padding: 0px;
+    margin-left: 10px;
+}
+.unga{
+    margin-left: 10px !important;
+}
+
+.card-footer .row-sec{
+    display:block;
+    font-size: 12px;
+    font-weight: 900px; 
+    padding-bottom: 25px;
+   
+}
+
+
+
+.card .button-green {
+    padding: 5px 15px;
+}
+
+.card-row{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-footer .row {
+    display: flex;
+    justify-content: space-between;
+}
