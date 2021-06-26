@@ -37,10 +37,13 @@ body{
 }
 
 .navbar-toggler-icon{
-    position:absolute;
-    right: 0;
-}
 
+}
+.navigation-section{
+
+    display: flex;
+    justify-content: flex-end;
+}
 .text-red{
     color: #FD511A;
 }
