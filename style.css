@@ -124,6 +124,7 @@ body{
 }
 .card-col img{
     padding: 15px;
+    flex-basis: 260px;
     
 }
 
@@ -173,4 +174,71 @@ body{
 .card-footer .row {
     display: flex;
     justify-content: space-between;
+}
+
+.testimonial{
+    color: black;
+    text-align: center;
+}
+
+.textdiv{
+    margin-bottom: 30px;
+}
+
+.review-sec img{
+    width: 120px;
+    height: auto;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.review-sec article{
+    max-width: 650px;
+}
+
+.review-sec{
+    display: flex;
+    justify-content: center;
+
+    align-items: center;
+}
+
+/* footer section  */
+
+.footer-sec{
+    background: #282531;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    margin-top: 100px;
+    
+  
+}
+
+.footer-sec .container{
+    margin-bottom: 0px;
+}
+.footer-sec ul{
+    padding: 0px;
+}
+.footer-sec ul li{
+    list-style: none;
+    color: lightgray;
+    
+}
+.footer-sec h3{
+padding: 0px;
+}
+
+.footer-sec .row{
+    display: flex;
+    justify-content: space-around;
+}
+
+.copyright{
+
+text-align: center;
+margin-top: 100px;
+
+
 }
